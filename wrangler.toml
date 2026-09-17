@@ -2,10 +2,6 @@ name = "shein-cart"
 main = "worker/index.js"
 compatibility_date = "2026-09-01"
 
-routes = [
-  { pattern = "shein.ibrahimwithi.com", custom_domain = true }
-]
-
 [assets]
 directory = "./public"
 
